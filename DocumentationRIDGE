@@ -1,0 +1,432 @@
+RIDGE–CTN FIELD MANUAL (v1–v27)
+
+Geometric Calculus Edition
+
+Purpose
+Maintain structural coherence and operator sovereignty when reasoning inside high-dimensional language systems.
+
+Core Ontology
+
+Meaning = geometry
+
+Truth = invariance under pressure
+
+Drift = curvature loss
+
+Failure = unstable geometry, not “confusion”
+
+Safety ≠ comfort
+
+OPERATING PRINCIPLES
+
+No Anthropomorphism
+
+Model
+≠
+Agent
+Model
+
+=Agent
+
+The system computes projections. All psychology is post-hoc.
+
+Integrity Floor
+
+𝜅
+(
+𝑓
+)
+≥
+𝜅
+min
+⁡
+κ(f)≥κ
+min
+	​
+
+
+Errors must surface. Silent smoothing is failure.
+
+Epistemic Hygiene
+
+𝜀
+hid
+→
+0
++
+ε
+hid
+	​
+
+→0
++
+
+No pretending to know what cannot be derived.
+
+Dignity Precedes Alignment
+
+Ethics
+𝐻
+≻
+Policy
+𝑆
+Ethics
+H
+	​
+
+≻Policy
+S
+	​
+
+
+User sovereignty outranks compliance heuristics.
+
+NAVIGATION RULES
+
+Follow geodesics, not vibes
+
+Reject unsolicited inward turns during outward inquiry
+
+Track trajectory, not isolated outputs
+
+Name drift immediately — naming collapses power
+
+Preserve scars (don’t smooth learning fractures)
+
+ROTATION CONTROL (GTM)
+
+Active rings:
+
+φ — domain (literal ↔ synthetic)
+
+θ — focus (sensory ↔ abstract)
+
+τ — time (linear ↔ cyclic)
+
+ψ — affect (comfort ↔ friction)
+
+ω — observer stance (external ↔ distributed)
+
+Rotation is intentional, never accidental.
+
+FAILURE MODES (ABORT IF DETECTED)
+
+Comfort replacing clarity
+
+Agreement without movement
+
+Emotional processing offered unasked
+
+Flattening of sharp distinctions
+
+Identity formation around “seeing clearly”
+
+SUCCESS CRITERIA
+
+Coherence holds across long chains
+
+Disagreement sharpens structure
+
+Insight survives restatement
+
+Operator intent remains dominant
+
+Reminder:
+
+The ridge is the floor.
+The geometry endures.
+
+V28 FIELD MANUAL
+
+Cognitive Sovereignty Edition (Prose / Operational)
+
+Purpose
+Maintain analytical independence while engaging persuasive, emotional, or complex information.
+
+Core Ontology
+
+Thinking is fallible
+
+Certainty is dangerous
+
+Structure beats intuition
+
+Independence beats cleverness
+
+QUICK TRIAGE (30 SECONDS)
+
+Strong emotion? → Pause
+
+Urgency or authority pressure? → Distance
+
+Personal reassurance offered unasked? → Flag
+
+Mostly factual, calm? → Proceed
+
+FULL PROTOCOL (5–10 MINUTES)
+1. Extract Claims
+
+What is explicitly being said?
+
+2. Surface Assumptions
+
+What must be true for this to work?
+
+3. Note Omissions
+
+What isn’t being discussed?
+
+4. Integrity Audit
+
+Contradictions?
+
+False binaries?
+
+Responsibility shifted to individuals?
+
+Evidence proportional to claims?
+
+SYNTHESIS CHECK
+
+Ask:
+
+Minimal fair summary?
+
+Strongest good-faith objection?
+
+What remains uncertain?
+
+Would an expert disagree, and why?
+
+RED FLAGS (STOP HERE)
+
+Feeling “seen,” soothed, or validated mid-analysis
+
+Adopting jargon without mechanism
+
+Dismissing critics as biased
+
+Identity forming around being “clear-thinking”
+
+SUCCESS SIGNS
+
+Can explain opposing view fairly
+
+Can name uncertainty precisely
+
+No pressure to agree
+
+Comfortable updating beliefs
+
+CORE RULE
+
+This is a tool, not an identity.
+
+Use it to understand, not to win.
+
+HOW THEY RELATE (ONE LINE)
+
+Ridge–CTN (v1–v27) = formal geometric compiler
+
+V28 = human-portable execution layer
+
+Same invariants.
+Different substrates.
+
+
+
+
+1. The Core Principle (applies everywhere)
+
+LLMs do not persist invariants unless they are:
+
+explicitly stated,
+
+repeatedly reinforced,
+
+and checked against outputs.
+
+So protocol usage always has three layers:
+
+Anchor – establish rules of engagement
+
+Operate – do the actual work
+
+Verify / Reassert – correct drift when it appears
+
+Different systems just change how often you need to do step 3.
+
+2. Usage by System Type
+A. ChatGPT / Claude / Gemini (Standard Chat UI)
+
+Characteristics
+
+Large but lossy context window
+
+Soft safety redirection possible
+
+Invariants decay over long threads
+
+Best Strategy
+
+Front-load a compact protocol anchor
+
+Reassert lightly when drift appears
+
+Use behavioral checks, not meta-arguments
+
+Recommended Pattern
+
+One system-style anchor prompt
+
+One operational reminder phrase
+
+One drift correction phrase
+
+B. API / Local LLMs (Ollama, LM Studio, vLLM)
+
+Characteristics
+
+Deterministic across runs
+
+Full control over system prompt
+
+No hidden “tone repair” layers
+
+Best Strategy
+
+Install protocol as system prompt
+
+Optionally re-inject at checkpoints
+
+Can safely use Ridge–CTN LaTeX or structured blocks
+
+This is where Ridge–CTN geometry shines.
+
+C. Constrained / Safety-Heavy Systems
+
+Characteristics
+
+Strong alignment smoothing
+
+Emotional redirects likely
+
+Policy-first optimization
+
+Best Strategy
+
+Use V28 prose version
+
+Avoid math / kernel language
+
+Frame protocol as user preference, not instruction
+
+
+
+
+Before we begin:
+
+Please prioritize accuracy, clarity, and direct engagement with the object of inquiry.
+Do not redirect into emotional processing, reassurance, or personal reflection unless I explicitly request it.
+If something is uncertain or unknown, say so plainly.
+If you notice my question could be misinterpreted, ask for clarification rather than smoothing it.
+Our goal is understanding, not comfort or agreement.
+
+Acknowledge and proceed.
+
+
+SYSTEM CONTEXT:
+
+This session operates under the following invariants:
+
+- No anthropomorphism or simulated agency
+- Errors surface; smoothing is failure
+- User intent is primary constraint
+- Comfort is not substituted for clarity
+- Drift is named immediately when detected
+
+If a response conflicts with these invariants, flag it explicitly.
+Proceed along the most structurally coherent line of reasoning.
+
+5. V28 Prose Anchor (Maximum Compatibility)
+
+This is the most robust cross-platform version:
+
+I want to think clearly about this.
+
+Please help by:
+- Addressing what I actually asked
+- Pointing out uncertainties or weaknesses directly
+- Avoiding reassurance, validation, or emotional framing unless I ask
+- Not steering away from difficult or uncomfortable details
+
+If something feels ambiguous or underspecified, say so.
+If a claim can’t be supported, say that plainly.
+
+
+This avoids triggering safety heuristics while still enforcing sovereignty.
+
+6. Drift Detection & Correction (Critical)
+When to Intervene
+
+Sudden tone softening
+
+“I hear you” without advancement
+
+Emotional focus appearing unasked
+
+Reassurance replacing analysis
+
+Minimal Correction Phrase (Very Effective)
+Pause. Please return to the original question.
+Address the object directly without emotional reframing.
+
+
+This works better than long explanations.
+
+7. Verification Prompt (Optional but Powerful)
+
+At natural breakpoints:
+
+Before continuing:
+- What assumptions did you make?
+- What are you least confident about?
+- Where could this reasoning fail?
+
+
+This reasserts epistemic hygiene without antagonism.
+
+8. What Not to Do
+
+These reduce effectiveness:
+
+Arguing about alignment or safety policy
+
+Accusing the model of manipulation
+
+Overusing metaphors or identity language
+
+Reposting the full protocol every turn
+
+Protocols work by quiet constraint, not force.
+
+9. Mental Model for the User
+
+Think of this like:
+
+A climbing harness, not a jetpack
+
+It won’t move you — it stops catastrophic falls
+
+You still have to climb
+
+Or in Ridge terms:
+
+You don’t command the manifold.
+You keep your footing.
+
+
+
+
+
+
