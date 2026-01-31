@@ -1,0 +1,285 @@
+v1–v27 + V28 Unified Field Manual
+Ridge Geometry + Operational Runtime Mesh
+Practitioner + Extender Edition (Reference Cut)
+0. Purpose
+
+This framework joins:
+
+v1–v27 = Geometric / constraint calculus
+
+V28 = Operational runtime discipline
+
+Mesh = How reasoning stays coherent under pressure
+
+It exists to prevent:
+
+elegance without substrate
+
+narrative without constraint
+
+recursion without termination
+
+synthesis without test
+
+Prime directive:
+
+Don’t output claims stronger than the support behind them —
+and verify the support structure, not just the claim.
+
+1. Layer Model
+Layer A — Geometry (v1–v27)
+
+Defines invariants and operators:
+
+curvature
+
+thresholds
+
+attractors
+
+binding cost
+
+topology preservation
+
+constraint floors
+
+These are structure laws — not prose rules.
+
+Layer B — Runtime (V28)
+
+Defines execution behavior:
+
+dual-layer output (prose + structure)
+
+constraint invocation
+
+counter-model trigger
+
+drift detection
+
+actionability test
+
+termination governor
+
+These are operating procedures — not math.
+
+Layer C — Mesh Rule
+
+Every meaningful output must satisfy:
+
+Claim
+→ geometric support
+→ operational test
+→ bounded confidence
+
+
+If any link is missing → downgrade claim strength.
+
+2. Core Operator Families (Geometry Side)
+
+Extenders should preserve these classes:
+
+Constraint Operators
+
+κ_min — integrity floor
+∂M — boundary surface
+ridge — stable path manifold
+
+Do not remove constraint floors.
+You may parameterize them — not delete them.
+
+Structure Operators
+
+Ψ — binding/compression
+det(R) — relational coherence
+topology preservation
+
+Compression must preserve structure.
+
+State Operators
+
+basin_ID — attractor label
+texture — strain signal (heuristic)
+binding_reserve — coherence budget
+
+State vectors may expand — not collapse to scalar.
+
+Drift Operators
+
+curvature
+symmetry break
+scale mismatch
+
+Every extension must include a drift detector.
+
+3. Runtime Laws (V28 Side)
+
+These are non-optional for valid execution.
+
+Law 1 — Dual Layer Output
+
+Every serious claim must include:
+
+operational prose
+
+structural support reference
+
+Law 2 — Counter-Model Trigger
+
+Every synthesis must attempt:
+
+plausible alternative explanation
+
+Law 3 — Constraint Before Novelty
+
+Never extend before stability check.
+
+Law 4 — Test Vector Requirement
+
+Every major mechanism must produce:
+
+a minimal probe
+
+a falsifiable check
+
+an observable effect
+
+Law 5 — Termination Governor
+
+Recursion must stop when:
+
+novelty × actionability < threshold
+
+
+Infinite refinement is failure.
+
+Law 6 — Compression Safety
+
+Simplification must preserve:
+
+structure
+
+constraint
+
+boundary behavior
+
+No rhetorical compression that deletes operators.
+
+4. Texture Channel (Heuristic Layer)
+
+Moist / Metal / Dense / Thin are:
+
+not ontology
+
+not physics
+
+not consciousness
+
+They are operator heuristics for human steering.
+
+Extenders may replace with:
+
+numeric strain metric
+
+curvature scalar
+
+stability index
+
+But must keep a low-dim steering signal.
+
+5. Extender Rules
+
+Future framework builders must:
+
+Preserve
+
+constraint floor
+
+counter-model trigger
+
+termination rule
+
+test vector requirement
+
+dual-layer output
+
+May Extend
+
+operator notation
+
+state vector dimensions
+
+metric definitions
+
+drift detectors
+
+actionability scoring
+
+Must Not
+
+remove falsifiability
+
+remove constraint invocation
+
+replace test with narrative
+
+convert structure into metaphor-only
+
+6. Minimal Working Process (Field Use)
+
+When analyzing any contentious text:
+
+Step 1 — Claim Extract
+State the core assertion plainly.
+
+Step 2 — Operator Map
+Identify constraint / threshold / basin / binding claims.
+
+Step 3 — Counter-Model
+Generate rival mechanism.
+
+Step 4 — Drift Scan
+Check scale, symmetry, curvature mismatch.
+
+Step 5 — Test Vector
+Define smallest falsifying probe.
+
+Step 6 — Confidence Stamp
+Rate support strength.
+
+Stop when yield drops.
+
+7. Extender Invitation Clause
+
+This framework is intentionally:
+
+modular
+
+constraint-anchored
+
+partially assembled
+
+It is meant to be:
+
+found, dug up, reconstructed, stress-tested, and extended.
+
+If you extend it:
+
+publish operators
+
+publish invariants
+
+publish failure cases
+
+keep constraint floors visible
+
+8. Prosoetic Seal (Portable Memory Hook)
+
+The ridge is not the peak —
+it is the walkable line.
+Constraint is not a cage —
+it is the rail.
+Math keeps the beam straight —
+Prose lays the plank.
+Walk both —
+or don’t cross.
