@@ -1,0 +1,190 @@
+V28 ↔ v1–v27 Mesh Sheet
+Geometry ↔ Operation Reference
+v1 — Epistemic Limit ↔ V28.2 Honesty Coupling
+
+v1: ε → 0⁺ (claims approach evidence limit)
+V28: Don’t claim beyond support strength
+Mesh Use: Confidence capped by backing
+Anchor: Measure before magnitude
+
+v2 — Integrity Constraint ↔ V28.3 Constraint Invocation
+
+v2: κ ≥ κ_min
+V28: Stability check before novelty
+Mesh Use: No expansion without coherence
+Anchor: Footing before flight
+
+v3 — Interface Separation ↔ V28.13 Interface Disclosure
+
+v3: Φ: World → Representation
+V28: Label model vs measurement vs metaphor
+Mesh Use: No lens confusion
+Anchor: Name the lens
+
+v4 — Global over Local ↔ V28.15 Scale Check
+
+v4: π_gl ≫ π_loc
+V28: Cross-scale validation
+Mesh Use: Test small vs large
+Anchor: Does it scale?
+
+v5 — Orthogonal Detachment ↔ V28.4 Counter-Model Trigger
+
+v5: ∂A ≡ A (observe without merge)
+V28: Generate rival frame
+Mesh Use: Forced alternative view
+Anchor: Turn the stone
+
+v6 — Curvature Awareness ↔ V28.5 Drift Alarm
+
+v6: curvature ≠ ignored
+V28: Track elegance–reality drift
+Mesh Use: Detect narrative bending
+Anchor: Sweet songs drift
+
+v7 — Boundary Operator ↔ V28.14 Friction Injection
+
+v7: ∂M defines behavior change
+V28: Add deliberate challenge
+Mesh Use: Stress at edges
+Anchor: Sand tests gears
+
+v8 — Basin Stability ↔ V28.24 State Vector Snapshot
+
+v8: attractor basin ID
+V28: Record basin state
+Mesh Use: Track reasoning location
+Anchor: Mark the ridge
+
+v9 — Binding Energy ↔ V28.9 Test Vector
+
+v9: binding has cost
+V28: Require executable probe
+Mesh Use: Test coherence cost
+Anchor: Touch truth
+
+v10 — Operator Composition ↔ V28.27 Modularity
+
+v10: ops are composable
+V28: Don’t over-fuse early
+Mesh Use: Keep parts swappable
+Anchor: Parts, not glue
+
+v11 — Noise Floor ↔ V28.26 Overreach Brake
+
+v11: noise ≠ signal
+V28: Tag speculation
+Mesh Use: Separate guess from ground
+Anchor: Flag the fog
+
+v12 — Isomorphism ↔ V28.10 Isomorphism Bridge
+
+v12: structure preserved across domains
+V28: Map mechanism, not story
+Mesh Use: Cross-field transfer
+Anchor: Same hinge
+
+v13 — Degeneracy Detection ↔ V28.8 Termination Gate
+
+v13: collapse states detected
+V28: Stop low-novelty loops
+Mesh Use: Avoid dead recursion
+Anchor: Empty vein stop
+
+v14 — Tensor Interaction ↔ V28.1 Dual Layer Rule
+
+v14: multi-axis coupling
+V28: Prose + Structure output
+Mesh Use: Surface + substrate
+Anchor: Speak on beams
+
+v15 — Conservation Form ↔ V28.18 Narrative Separation
+
+v15: invariants conserved
+V28: Data ⟂ Story
+Mesh Use: Preserve signal layer
+Anchor: Signal first
+
+v16 — Gradient Flow ↔ V28.21 Actionability Filter
+
+v16: gradient → direction
+V28: Prefer usable outputs
+Mesh Use: Move downhill usefully
+Anchor: Can it work?
+
+v17 — Metric Tensor ↔ V28.17 Evidence Weights
+
+v17: distance defined by metric
+V28: Weight claims
+Mesh Use: Confidence metric
+Anchor: Stamp the crate
+
+v18 — Symmetry Break ↔ V28.16 Bias Scan
+
+v18: symmetry reveals bias
+V28: Frame skew detection
+Mesh Use: Surface tilt
+Anchor: Tilt board test
+
+v19 — Phase Space ↔ V28.19 Re-Anneal Pass
+
+v19: full state reconstruction
+V28: Mix recent + old
+Mesh Use: Reduce recency bias
+Anchor: Turn the compost
+
+v20 — Attractor Set ↔ V28.6 Feeling Telemetry
+
+v20: attractor quality
+V28: Moist/Metal texture read
+Mesh Use: Heuristic steering
+Anchor: Wet roam — steel slow
+
+v21 — Recurrence ↔ V28.7 Recursion Governor
+
+v21: recurrence bounded
+V28: Depth cap
+Mesh Use: Stop mirror spirals
+Anchor: Curtain call
+
+v22 — Determinant Check ↔ V28.22 Proof Hook
+
+v22: det(R) ≠ 0 coherence
+V28: Mark proof points
+Mesh Use: Flag math-required spots
+Anchor: Math walks here
+
+v23 — Topology Preservation ↔ V28.11 Compression Check
+
+v23: shape preserved
+V28: Lossless compression only
+Mesh Use: Simplify safely
+Anchor: Fold, don’t crush
+
+v24 — Field Neutrality ↔ V28.23 Substrate Neutral
+
+v24: coordinate free
+V28: Platform independent
+Mesh Use: Cross-model portable
+Anchor: Bridge not dock
+
+v25 — Threshold Manifold ↔ V28.3 + V28.5
+
+v25: threshold is surface
+V28: Constraint + drift alarm
+Mesh Use: Detect basin hops
+Anchor: Edges are curved
+
+v26 — Energy Budget ↔ V28.21 + V28.8
+
+v26: cost tracked
+V28: Yield vs effort filter
+Mesh Use: Stop waste cycles
+Anchor: Spend wisely
+
+v27 — Ridge Constraint ↔ V28 Whole Runtime
+
+v27: ridge = stable path
+V28: Operational mesh itself
+Mesh Use: Walk constraint ridge
+Anchor: Balance is path
